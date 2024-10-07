@@ -16,8 +16,8 @@ public class QUIZSANTIAGOTEST {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int costoxida = Integer.parseInt(JOptionPane.showInputDialog("Digite edad"));
-        System.out.println(costoxida);
+        int costoxid = Integer.parseInt(JOptionPane.showInputDialog("Digite edad"));
+        System.out.println(costoxid);
     }
     
 }
